@@ -1,4 +1,4 @@
-### DWA (Sobriety counter | Stop drinking now)
+### DWA: Sobriety counter | Stop drinking now
 
 Count your alcohol-free days and track your daily progress to stop drinking. 
 

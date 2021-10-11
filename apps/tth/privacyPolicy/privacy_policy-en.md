@@ -1,4 +1,4 @@
-## TTH Privacy Policy
+### TTH Privacy Policy
 
 * [Portuguese version](../privacyPolicy/tth/privacy_policy-pt.html)
 

@@ -1,24 +1,24 @@
 ## TC Solution Inc
 
 Welcome to TCSolution apps. Below we briefly present our apps with their respective links to PlayStore and AppStore.  
+  
 For support or contact, write us an email at [dev.tcsolution@gmail.com](mailto:dev.tcsolution@gmail.com)
 
 ---
 
-### DWI (Days counter - Progressive counter)
+### DWI: Days counter | Progressive counter
 
 Count the days and follow up your progress to reach a goal or avoid an incident.  
 
 Download the app on [Play Store](https://play.google.com/store/apps/details?id=tech.tcsolution.dwi)  
 Download the **PRO** app on [Play Store](https://play.google.com/store/apps/details?id=tech.tcsolution.dwi.pro)  
-
 Download the app on [App Store](https://apps.apple.com/br/app/dwi-contador-de-dias/id1506825274)  
 
 [KNOW MORE](/apps/dwi/about/about-en.md)  
 
 ---
 
-### CDT: Days counter (countdown timer)
+### CDT: Days counter | Countdown timer
 
 Use the countdown timer to keep track of the most important events in your life.  
 
@@ -29,7 +29,7 @@ Download the **PRO** app on [Play Store](https://play.google.com/store/apps/deta
 
 ---
 
-### DWA (Sobriety counter | Stop drinking now)
+### DWA: Sobriety counter | Stop drinking now
 
 Count your alcohol-free days and track your daily progress to stop drinking. 
 
@@ -40,7 +40,7 @@ Download the app on [App Store](https://apps.apple.com/br/app/dws-contador-antif
 
 ---
 
-### DWS (Smoke-free counter | Quit smoking now)
+### DWS: Smoke-free counter | Quit smoking now
 
 Count your days without smoking and follow up your progress by quitting smoking. 
 

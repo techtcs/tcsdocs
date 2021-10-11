@@ -1,6 +1,8 @@
-## DWI (Days counter - Days Without Incidents)
+### DWI: Days counter | Progressive counter
 
 Count the days and follow up your progress to reach a goal or avoid an incident.  
+
+#### DWI : Days Without Incidents
   
 🎯 Follow up your progress avoiding an incident  
 💪 Count your success days  

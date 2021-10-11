@@ -1,4 +1,4 @@
-### DWS (Smoke-free counter | Quit smoking now)
+### DWS: Smoke-free counter | Quit smoking now
 
 Count your days without smoking and follow up your progress by quitting smoking.  
 

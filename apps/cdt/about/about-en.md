@@ -1,4 +1,4 @@
-## CDT: Days counter (countdown timer)
+### CDT: Days counter | Countdown timer
 
 Use the countdown timer to keep track of how much time is left for the big day.  
   

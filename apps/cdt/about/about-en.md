@@ -38,5 +38,5 @@ Download the PRO app on [Play Store](https://play.google.com/store/apps/details?
 
 #### Privacy Policy
 
-* [English version](/apps/cdt/privacyPolicy/cdt/privacy_policy-en.md)  
-* [Portuguese version](/apps/cdt/privacyPolicy/cdt/privacy_policy-pt.md)  
+* [English version](../privacyPolicy/cdt/privacy_policy-en.md)  
+* [Portuguese version](../privacyPolicy/cdt/privacy_policy-pt.md)  

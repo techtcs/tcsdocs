@@ -29,7 +29,9 @@ DWS is easy to use and has no ads annoying you.
 
 Download the app on [Play Store](https://play.google.com/store/apps/details?id=tech.tcsolution.dws)  
 
+Download the app on [App Store](https://apps.apple.com/br/app/dws-contador-antifumo/id1543903148)  
+
 #### Privacy Policy
 
-* [English version](/apps/dws/privacyPolicy/privacy_policy-en.md)  
-* [Portuguese version](/apps/dws/privacyPolicy/privacy_policy-pt.md)  
+* [English version](../privacyPolicy/privacy_policy-en.md)  
+* [Portuguese version](../privacyPolicy/privacy_policy-pt.md)  

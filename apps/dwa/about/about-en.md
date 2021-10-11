@@ -29,7 +29,9 @@ DWA is easy to use and has no ads annoying you.
 
 Download the app on [Play Store](https://play.google.com/store/apps/details?id=tech.tcsolution.dwa)  
 
+Download the app on [App Store](https://apps.apple.com/br/app/dwa-contador-de-dias-sóbrio/id1544809068)  
+
 #### Privacy Policy
 
-* [English version](/apps/dwa/privacyPolicy/privacy_policy-en.md)  
-* [Portuguese version](/apps/dwa/privacyPolicy/privacy_policy-pt.md)  
+* [English version](../privacyPolicy/privacy_policy-en.md)  
+* [Portuguese version](../privacyPolicy/privacy_policy-pt.md)  

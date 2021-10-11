@@ -22,8 +22,11 @@ DWI is easy to use and has no ads annoying you.
 ★ Win levels and trophies achieving your goal  
 
 Download the app on [Play Store](https://play.google.com/store/apps/details?id=tech.tcsolution.dwi)  
+Download the PRO app on [Play Store](https://play.google.com/store/apps/details?id=tech.tcsolution.dwi.pro)  
+
+Download the app on [App Store](https://apps.apple.com/br/app/dwi-contador-de-dias/id1506825274)  
 
 #### Privacy Policy
 
-* [English version](/apps/dwi/privacyPolicy/privacy_policy-en.md)  
-* [Portuguese version](/apps/dwi/privacyPolicy/privacy_policy-pt.md)  
+* [English version](../privacyPolicy/privacy_policy-en.md)  
+* [Portuguese version](../privacyPolicy/privacy_policy-pt.md)  

@@ -1,4 +1,4 @@
-## TC Solution Inc
+## TC Solution Inc.
 
 Welcome to TCSolution apps. Below we briefly present our apps with their respective links to PlayStore and AppStore.  
   

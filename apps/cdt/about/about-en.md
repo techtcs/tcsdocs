@@ -34,7 +34,7 @@ The CDT is constantly evolving and new features are added frequently.
 We hope to help you remember important events with the CDT.  
 
 Download the app on [Play Store](https://play.google.com/store/apps/details?id=tech.tcsolution.cdt)  
-Download the PRO app on [Play Store](https://play.google.com/store/apps/details?id=tech.tcsolution.cdt.pro)  
+Download the **PRO** app on [Play Store](https://play.google.com/store/apps/details?id=tech.tcsolution.cdt.pro)  
 
 #### Privacy Policy
 

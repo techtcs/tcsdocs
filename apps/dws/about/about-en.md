@@ -28,7 +28,6 @@ DWS is easy to use and has no ads annoying you.
  ★ Widgets to keep the counter in your home screen  
 
 Download the app on [Play Store](https://play.google.com/store/apps/details?id=tech.tcsolution.dws)  
-
 Download the app on [App Store](https://apps.apple.com/br/app/dws-contador-antifumo/id1543903148)  
 
 #### Privacy Policy

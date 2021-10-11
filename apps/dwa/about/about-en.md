@@ -2,7 +2,7 @@
 
 Count your alcohol-free days and track your daily progress to stop drinking. 
 
-#### DWA : Days Without Alcohol
+#### DWA: Days Without Alcohol
 
 🎯 Follow up your progress by stopping drinking alcohol  
 💪 Count your success days  

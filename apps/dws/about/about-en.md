@@ -2,7 +2,7 @@
 
 Count your days without smoking and follow up your progress by quitting smoking.  
 
-#### DWS : Days Without Smoking
+#### DWS: Days Without Smoking
 
 🎯 Follow up your progress by quitting smoking  
 💪 Count your success days  

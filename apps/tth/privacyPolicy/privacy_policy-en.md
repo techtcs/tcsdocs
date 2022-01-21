@@ -1,6 +1,6 @@
 ### TTH Privacy Policy
 
-* [Portuguese version](../privacyPolicy/tth/privacy_policy-pt.html)
+* [Portuguese version](/privacy_policy-pt.html)
 
 TC Solution takes your private information very seriously.
 

@@ -4,7 +4,7 @@
 
 TC Solution takes your private information very seriously.
 
-This policy shows our privacy practices describing how we treat information that is entered by you or collected when you use TTH (Countdown timer).
+This policy shows our privacy practices describing how we treat information that is entered by you or collected when you use TTH (10k hours counter).
 By using the app, you consent to collect, transfer, manipulate, storage, disclosure, and other uses of your information as described in this Privacy Policy. Please read carefully.
 
 ### What this Privacy Policy covers
@@ -15,7 +15,7 @@ This Privacy Policy does not apply to third party practices that do not belong t
 
 ### Access data and tools usage
 
-Access data and data usage for TTH. can be collected and stored. We use this information for future analysis in order to improve our services, develop new services and especially improve and personalize your experience using the CDT app.
+Access data and data usage for TTH. can be collected and stored. We use this information for future analysis in order to improve our services, develop new services and especially improve and personalize your experience using the TTH app.
 
 ### With whom your information is shared
 

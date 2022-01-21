@@ -1,6 +1,6 @@
 ## DWA Política de privacidade
 
-* [English version](../privacyPolicy/dwa/privacy_policy-en.md)  
+* [English version](/privacy_policy-en.md)  
 
 A TC Solution leva muito a sério as suas informações privadas.
 

@@ -1,6 +1,6 @@
 ## DWI Privacy Policy
 
-* [Portuguese version](../privacyPolicy/dwi/privacy_policy-pt.html)
+* [Portuguese version](../privacyPolicy/privacy_policy-pt.html)
 
 TC Solution takes your private information very seriously.
 

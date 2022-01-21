@@ -15,13 +15,13 @@ Esta Política de Privacidade não se aplica às práticas de terceiros que não
 		
 ### Informações de acesso e utilização de ferramentas
 
-Informações de acesso e informações de uso das ferramentas do TTH poderão ser coletadas e armazenas. Nós utilizamos estas informações para futuras análises com o intuito de melhorar nossos serviços, desenvolver novos serviços e principalmente aperfeiçoar e personalizar sua experiência ao utilizar o apliativo CDT.
+Informações de acesso e informações de uso das ferramentas do TTH poderão ser coletadas e armazenas. Nós utilizamos estas informações para futuras análises com o intuito de melhorar nossos serviços, desenvolver novos serviços e principalmente aperfeiçoar e personalizar sua experiência ao utilizar o apliativo TTH.
 
 ### Com quem sua informação é compartilhada
 		
 Nós nunca compartilharemos as informações que recebermos de você.
 		
-Esteja ciente que todo o conteúdo pelo alicativo TTH são restritas apenas a seu dispositivo. Desta forma, este conteúdo é compartilhado apenas se você compartilhar algum informação sua armazenada no CDT ativamente.
+Esteja ciente que todo o conteúdo pelo alicativo TTH são restritas apenas a seu dispositivo. Desta forma, este conteúdo é compartilhado apenas se você compartilhar algum informação sua armazenada no TTH ativamente.
 
 ### Alterações desta Política de Privacidade
 

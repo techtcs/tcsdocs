@@ -51,6 +51,17 @@ Download the app on [App Store](https://apps.apple.com/br/app/dws-contador-antif
 
 ---
 
+### TTH | Outliers: 10k Hours counter
+
+Track your 10,000 hour log to become an expert in any goal!  
+
+Download the app on [Play Store](https://play.google.com/store/apps/details?id=tech.tcsolution.tth)    
+Download the **PRO** app on [Play Store](https://play.google.com/store/apps/details?id=tech.tcsolution.tth.pro)  
+
+[KNOW MORE](/apps/dws/about/about-en.md)  
+
+---
+
 ## Support or Contact
 
 Send an email to: [dev.tcsolution@gmail.com](mailto:dev.tcsolution@gmail.com)  

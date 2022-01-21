@@ -1,6 +1,6 @@
 ## DWS Política de privacidade
 
-* [English version](../privacyPolicy/dws/privacy_policy-en.md)  
+* [English version](/privacy_policy-en.md)  
 
 A TC Solution leva muito a sério as suas informações privadas.
 

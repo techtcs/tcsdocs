@@ -37,5 +37,5 @@ Download the app on [Play Store](https://play.google.com/store/apps/details?id=t
 
 #### Privacy Policy  
 
-* [English version](../privacyPolicy/privacy_policy-en.md)  
-* [Portuguese version](../privacyPolicy/privacy_policy-pt.md)  
+* [English version](https://techtcs.github.io/tcsdocs/apps/mda/privacyPolicy/privacy_policy-en.html)  
+* [Portuguese version](https://techtcs.github.io/tcsdocs/apps/mda/privacyPolicy/privacy_policy-pt.html)  

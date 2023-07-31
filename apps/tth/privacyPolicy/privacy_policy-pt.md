@@ -1,6 +1,6 @@
 ## TTH Política de privacidade
 
-* [English version](/privacy_policy-en.md)  
+* [English version](https://techtcs.github.io/tcsdocs/apps/tth/privacyPolicy/privacy_policy-en.html)  
 
 A TC Solution leva muito a sério as suas informações privadas.
 

@@ -28,7 +28,7 @@ MTL is a free app, but you also have the option to unlock even more features by 
 
 We are constantly evolving the app! Many more features will be added in the future.
 
-Send your opinion and suggestion to the email dev.tcsolution@gmail.com
+Send your opinion and suggestion to the email [dev.tcsolution@gmail.com](mailto:dev.tcsolution@gmail.com)
 
 May the MTL help you not to forget your daily progress!
 
@@ -36,5 +36,5 @@ Download the app on [Play Store](https://play.google.com/store/apps/details?id=t
 
 #### Privacy Policy  
 
-* [English version](../privacyPolicy/privacy_policy-en.md)  
-* [Portuguese version](../privacyPolicy/privacy_policy-pt.md)  
+* [English version](https://techtcs.github.io/tcsdocs/apps/mtl/privacyPolicy/privacy_policy-en.html)  
+* [Portuguese version](https://techtcs.github.io/tcsdocs/apps/mtl/privacyPolicy/privacy_policy-pt.html)  

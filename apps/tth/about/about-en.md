@@ -39,7 +39,7 @@ Many of the app's features are free and are satisfactory for most of our users. 
 ★  Start or pause your goal using a special widget  
 
 We are constantly evolving and new features are added frequently.  
-Send your opinion or suggestion to dev.tcsolution@gmail.com.  
+Send your opinion or suggestion to [dev.tcsolution@gmail.com](mailto:dev.tcsolution@gmail.com)
 
 We hope TTH will help you become an expert in your goal! Good luck!   
 
@@ -47,5 +47,5 @@ Download the app on [Play Store](https://play.google.com/store/apps/details?id=t
 
 #### Privacy Policy  
 
-* [English version](../privacyPolicy/privacy_policy-en.md)  
-* [Portuguese version](../privacyPolicy/privacy_policy-pt.md)  
+* [English version](https://techtcs.github.io/tcsdocs/apps/tth/privacyPolicy/privacy_policy-en.html)  
+* [Portuguese version](https://techtcs.github.io/tcsdocs/apps/tth/privacyPolicy/privacy_policy-pt.html)  

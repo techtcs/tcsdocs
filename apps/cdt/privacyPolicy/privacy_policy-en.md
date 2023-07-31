@@ -1,6 +1,6 @@
 ## CDT Privacy Policy
 
-* [Portuguese version](/privacy_policy-pt.html)
+* [Portuguese version](https://techtcs.github.io/tcsdocs/apps/cdt/privacyPolicy/privacy_policy-pt.html)
 
 TC Solution takes your private information very seriously.
 

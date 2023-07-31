@@ -1,4 +1,4 @@
-## MTL Política de privacidade
+## MDA Política de privacidade
 
 * [English version](https://techtcs.github.io/tcsdocs/apps/mda/privacyPolicy/privacy_policy-en.html)  
 

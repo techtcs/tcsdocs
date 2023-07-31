@@ -29,5 +29,5 @@ Download the app on [App Store](https://apps.apple.com/br/app/dwi-contador-de-di
 
 #### Privacy Policy
 
-* [English version](../privacyPolicy/privacy_policy-en.md)  
-* [Portuguese version](../privacyPolicy/privacy_policy-pt.md)  
+* [English version](https://techtcs.github.io/tcsdocs/apps/dwi/privacyPolicy/privacy_policy-en.html)  
+* [Portuguese version](https://techtcs.github.io/tcsdocs/apps/dwi/privacyPolicy/privacy_policy-pt.html)  

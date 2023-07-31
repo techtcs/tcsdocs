@@ -38,5 +38,5 @@ Download the **PRO** app on [Play Store](https://play.google.com/store/apps/deta
 
 #### Privacy Policy
 
-* [English version](../privacyPolicy/cdt/privacy_policy-en.md)  
-* [Portuguese version](../privacyPolicy/cdt/privacy_policy-pt.md)  
+* [English version](https://techtcs.github.io/tcsdocs/apps/cdt/privacyPolicy/privacy_policy-en.html)  
+* [Portuguese version](https://techtcs.github.io/tcsdocs/apps/cdt/privacyPolicy/privacy_policy-pt.html)  

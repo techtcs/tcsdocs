@@ -1,10 +1,10 @@
-MMC: My Multi Counter  
+###MMC: My Multi Counter  
 
 Create multiple counters for various purposes  
 
 Sometimes all you need is to keep a number in mind!  
  
-# MMC is the answer!  
+<b>MMC is the answer!</b>   
 
 Create a counter now and start counting! You can add or subtract it and every daily operation is recorded in history.  
   

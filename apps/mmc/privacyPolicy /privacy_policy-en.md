@@ -36,9 +36,3 @@ The TCSolution team reserves the right to change this privacy policy without pri
 All rights reserved.
 
 If you have any questions regarding this Privacy Policy, please send us an email to [dev.tcsolution@gmail.com](mailto:dev.tcsolution@gmail.com)
-
-
-
-
-
-

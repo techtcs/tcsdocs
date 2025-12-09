@@ -36,7 +36,3 @@ A equipe da TCSolution reserva-se ao direito de alterar este termo de privacidad
 ### Demais dúvidas
 
 Caso você possua alguma dúvida com relação a esta Política de Privacidade, por favor envie-nos um email para [dev.tcsolution@gmail.com](mailto:dev.tcsolution@gmail.com)
-
-
-
-

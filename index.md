@@ -89,7 +89,8 @@ Organize your story in timeline.
 
 Download the app on [Play Store](https://play.google.com/store/apps/details?id=tech.tcsolution.mmc)  
 
-[KNOW MORE](/apps/mmc/about/about-en.md)  
+[KNOW MORE](/apps/mda/about/about-en.md) 
+
 ---
 
 ## Support or Contact

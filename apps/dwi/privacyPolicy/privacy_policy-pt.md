@@ -1,6 +1,8 @@
 ## DWI Política de privacidade
 
-* [English version](https://techtcs.github.io/tcsdocs/apps/dwi/privacyPolicy/privacy_policy-en.html)  
+* [English version](https://techtcs.github.io/tcsdocs/apps/dwi/privacyPolicy/privacy_policy-en.html)
+
+**Ultima atualização: 14/07/2026**  
 
 A TC Solution leva muito a sério as suas informações privadas.
 
@@ -15,7 +17,7 @@ Esta Política de Privacidade não se aplica às práticas de terceiros que não
 		
 ### Informações de acesso e utilização de ferramentas
 
-Informações de acesso e informações de uso das ferramentas do DWI poderão ser coletadas e armazenas (id do Android e informações sobre como o usuário interage com o aplicativo. Por exemplo: o número de vezes que ele acessa uma página ou no que ele toca). Nós utilizamos estas informações para futuras análises com o intuito de melhorar nossos serviços, desenvolver novos serviços e principalmente aperfeiçoar e personalizar sua experiência ao utilizar o apliativo DWI.
+Informações de acesso e informações de uso das ferramentas do DWI poderão ser coletadas e armazenas (informações sobre como o usuário interage com o aplicativo. Por exemplo: o número de vezes que ele acessa uma página ou no que ele toca). Nós utilizamos estas informações para futuras análises com o intuito de melhorar nossos serviços, desenvolver novos serviços e principalmente aperfeiçoar e personalizar sua experiência ao utilizar o apliativo DWI.
 
 *   **Firebase:** O Firebase é uma plataforma da Google que nos ajuda a construir aplicativos melhores e entender melhor nossos usuários. Mais informações sobre o Firebase em **[Sobre o Firebase](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj908zli6P3AhX_g5UCHV3nDzQQFnoECAkQAQ&url=https%3A%2F%2Ffirebase.google.com%2F%3Fhl%3Dpt&usg=AOvVaw35ZHRRnbb3FRIt3tVbLP7-),**  **[Política de privacidade do Firebase](https://firebase.google.com/support/privacy?hl=pt-br).**
 *   **Crashlytics (Firebase):** Coletamos, através do Crashlytics, dados sobre a execução do aplicativo quando da ocorrência de erros inesperados. Mais informações sobre o Crashlytics em **[Sobre o Crashlytics](https://firebase.google.com/docs/crashlytics).**
@@ -28,6 +30,14 @@ Informações de acesso e informações de uso das ferramentas do DWI poderão s
 Nós nunca compartilharemos as informações que recebermos de você.
 		
 Esteja ciente que todo o conteúdo pelo alicativo DWI são restritas apenas a seu dispositivo. Desta forma, este conteúdo é compartilhado apenas se você compartilhar algum informação sua armazenada no DWI ativamente.
+
+### Solicitação de exclusão de dados
+
+O aplicativo não possui sistema de cadastro de usuários nem mantém banco de dados próprio contendo informações pessoais dos usuários.  
+
+Os dados técnicos eventualmente coletados por serviços de terceiros, como *Firebase Analytics* e *Firebase Crashlytics*, são utilizados exclusivamente para fins estatísticos, diagnóstico de falhas e melhoria do aplicativo. Esses dados são processados e armazenados pelo *Google/Firebase* de acordo com suas próprias políticas de retenção.  
+
+Como não mantemos dados pessoais identificáveis dos usuários, **não existe um processo de solicitação de exclusão de dados**, uma vez que não há dados pessoais armazenados sob controle do desenvolvedor.  
 
 ### Alterações desta Política de Privacidade
 

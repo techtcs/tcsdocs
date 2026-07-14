@@ -15,7 +15,7 @@ This Privacy Policy does not apply to third party practices that do not belong t
 
 ### Access data and tools usage
 
-Access data and data usage for MMC. can be collected and stored (Android id and information about how the user interacts with the app. For example: the number of times they access a page or what they touch). We use this information for future analysis in order to improve our services, develop new services and especially improve and personalize your experience using the MMC app.
+Access data and data usage for MMC. can be collected and stored (information about how the user interacts with the app. For example: the number of times they access a page or what they touch). We use this information for future analysis in order to improve our services, develop new services and especially improve and personalize your experience using the MMC app.
 
 * **Firebase:** Firebase is a platform from Google that helps us build better apps and better understand our users. More information about Firebase at **[About Firebase](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj908zli6P3AhX_g5UCHV3nDzQQFnoECAkQAQ&url=https%3A%2F%2Ffirebase.google.com%2F%3Fhl%3Dpt&usg=AOvVaw35ZHRRnbb3FRIt3tVbLP7-),** **[Firebase Privacy Policy](https://firebase.google.com/support/privacy?hl=pt-br).**
 * **Crashlytics (Firebase):** We collect, through Crashlytics, data about the execution of the application when unexpected errors occur. More information about Crashlytics at **[About Crashlytics](https://firebase.google.com/docs/crashlytics).**
@@ -28,6 +28,14 @@ Access data and data usage for MMC. can be collected and stored (Android id and 
 We will never share the information we receive from you.
 
 Be aware that all content by aliquative MMC are restricted to your device only. In this way, your content is shared only if you share some of your information stored in MMC actively.
+
+### Data Deletion Request
+
+The application does not have a user registration system, nor does it maintain its own database containing users' personal information.  
+
+Any technical data collected by third-party services—such as *Firebase Analytics* and *Firebase Crashlytics*—is used exclusively for statistical purposes, crash diagnostics, and app improvement. This data is processed and stored by *Google/Firebase* in accordance with their own retention policies.  
+
+As we do not hold personally identifiable user data, **there is no data deletion request process**, given that no personal data is stored under the developer's control.  
 
 ### Changes to this Privacy Policy
 

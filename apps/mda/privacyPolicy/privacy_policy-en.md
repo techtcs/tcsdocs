@@ -2,6 +2,8 @@
 
 * [Portuguese version](https://techtcs.github.io/tcsdocs/apps/mda/privacyPolicy/privacy_policy-pt.html)
 
+**Last update: 2026-07-14**  
+
 TC Solution takes your private information very seriously.
 
 This policy shows our privacy practices describing how we treat information that is entered by you or collected when you use MDA (My diary).
@@ -28,6 +30,14 @@ Access data and data usage for MDA. can be collected and stored (Android id and 
 We will never share the information we receive from you.
 
 Be aware that all content by aliquative MDA are restricted to your device only. In this way, your content is shared only if you share some of your information stored in MDA actively.
+
+### Data Deletion Request
+
+The app does not have a user registration system, nor does it maintain its own database containing users' personal information.  
+
+Any technical data collected by third-party services—such as *Firebase Analytics* and *Firebase Crashlytics*—is used exclusively for statistical purposes, crash diagnostics, and app improvement. This data is processed and stored by *Google/Firebase* in accordance with their own retention policies.  
+
+As we do not hold personally identifiable user data, **there is no data deletion request process**, given that no personal data is stored under the developer's control.  
 
 ### Changes to this Privacy Policy
 

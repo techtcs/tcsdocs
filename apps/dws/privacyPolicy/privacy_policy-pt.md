@@ -1,6 +1,8 @@
 ## DWS Política de privacidade
 
-* [English version](https://techtcs.github.io/tcsdocs/apps/dws/privacyPolicy/privacy_policy-en.html)  
+* [English version](https://techtcs.github.io/tcsdocs/apps/dws/privacyPolicy/privacy_policy-en.html)
+
+**Última atualização: 14/07/2026**  
 
 A TC Solution leva muito a sério as suas informações privadas.
 
@@ -28,6 +30,14 @@ Informações de acesso e informações de uso das ferramentas do DWS poderão s
 Nós nunca compartilharemos as informações que recebermos de você.
 		
 Esteja ciente que todo o conteúdo pelo alicativo DWS são restritas apenas a seu dispositivo. Desta forma, este conteúdo é compartilhado apenas se você compartilhar algum informação sua armazenada no DWS ativamente.
+
+### Solicitação de exclusão de dados
+
+O aplicativo não possui sistema de cadastro de usuários nem mantém banco de dados próprio contendo informações pessoais dos usuários.  
+
+Os dados técnicos eventualmente coletados por serviços de terceiros, como *Firebase Analytics* e *Firebase Crashlytics*, são utilizados exclusivamente para fins estatísticos, diagnóstico de falhas e melhoria do aplicativo. Esses dados são processados e armazenados pelo *Google/Firebase* de acordo com suas próprias políticas de retenção.  
+
+Como não mantemos dados pessoais identificáveis dos usuários, **não existe um processo de solicitação de exclusão de dados**, uma vez que não há dados pessoais armazenados sob controle do desenvolvedor.  
 
 ### Alterações desta Política de Privacidade
 

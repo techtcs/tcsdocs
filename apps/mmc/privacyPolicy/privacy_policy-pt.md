@@ -2,6 +2,8 @@
 
 * [English version](https://techtcs.github.io/tcsdocs/apps/mmc/privacyPolicy/privacy_policy-en.html)
 
+**Última atualização: 14/07/2026**  
+
 A TC Solution leva muito a sério as suas informações privadas.
 
 Esta política mostra nossas práticas de privacidade descrevendo como tratamos às informações que são inseridas por você ou coletadas quando você utiliza o MMC (Meu contador múltiplo).

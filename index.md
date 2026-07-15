@@ -69,6 +69,7 @@ Organize your story in timeline.
 Download the app on [Play Store](https://play.google.com/store/apps/details?id=tech.tcsolution.mtl)  
 Download the **PRO** app on [Play Store](https://play.google.com/store/apps/details?id=tech.tcsolution.mtl.pro)  
 Download the app on [App Store](https://apps.apple.com/us/app/mtl-my-timeline/id1613564750)  
+Download the **PRO** app on [App Store](https://apps.apple.com/us/app/mtl-my-timeline/id6458192117)  
 
 [KNOW MORE](/apps/mtl/about/about-en.md)  
 
@@ -76,21 +77,25 @@ Download the app on [App Store](https://apps.apple.com/us/app/mtl-my-timeline/id
 
 ### MDA: My diary
 
-Organize your story in timeline. 
+Register your story in a diary. 
 
 Download the app on [Play Store](https://play.google.com/store/apps/details?id=tech.tcsolution.mda)  
 Download the **PRO** app on [Play Store](https://play.google.com/store/apps/details?id=tech.tcsolution.mda.pro)  
 Download the app on [App Store](https://apps.apple.com/us/app/mda-my-diary/id6458223086)  
+Download the **PRO** app on [App Store](https://apps.apple.com/us/app/mda-my-diary/id6458223921)  
 
 [KNOW MORE](/apps/mda/about/about-en.md)  
 
 ---
 
-### MMC: My diary
+### MMC: My Multi Counter
 
-Organize your story in timeline. 
+Count everyting you want. 
 
 Download the app on [Play Store](https://play.google.com/store/apps/details?id=tech.tcsolution.mmc)  
+Download the **PRO** app on [Play Store](https://play.google.com/store/apps/details?id=tech.tcsolution.mmc.pro)
+Download the app on [App Store](https://apps.apple.com/us/app/mmc-my-multi-counter/id6756488669) 
+Download the **PRO** app on [App Store](https://apps.apple.com/us/app/mda-my-diary/id6757406528)  
 
 [KNOW MORE](/apps/mmc/about/about-en.md)  
 

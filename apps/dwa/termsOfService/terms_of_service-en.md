@@ -146,7 +146,8 @@ The collection, processing, storage, and use of information associated with the 
 Please review the full Privacy Policy:
 
 **Privacy Policy:**  
-https://techtcs.github.io/tcsdocs/apps/dwa/privacyPolicy/privacy_policy-en.html
+* [English version](https://techtcs.github.io/tcsdocs/apps/dwa/privacyPolicy/privacy_policy-en.html)  
+* [Portuguese version](https://techtcs.github.io/tcsdocs/apps/dwa/privacyPolicy/privacy_policy-pt.html)  
 
 By using the App, you acknowledge that you have had the opportunity to review the Privacy Policy.
 

@@ -1,5 +1,5 @@
-# TERMS OF SERVICE
-## MDA – My Diary
+# MDA – My Diary
+## Terms of Service
 
 **Effective date:** November 7, 2026  
 **Developer:** TC Solution Inc.

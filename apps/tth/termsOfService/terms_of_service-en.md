@@ -124,7 +124,10 @@ We use Firebase services, including:
 
 Data collected through these services is processed and stored by Google/Firebase in accordance with their respective privacy policies.
 
-For additional information, please read our [Privacy Policy](https://techtcs.github.io/tcsdocs/apps/tth/privacyPolicy/privacy_policy-en.html).
+For additional information, please read our Privacy Policy:
+
+* [English version](https://techtcs.github.io/tcsdocs/apps/tth/privacyPolicy/privacy_policy-en.html)  
+* [Portuguese version](https://techtcs.github.io/tcsdocs/apps/tth/privacyPolicy/privacy_policy-pt.html)  
 
 ### 10. Third-Party Services
 

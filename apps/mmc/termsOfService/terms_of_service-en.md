@@ -1,4 +1,5 @@
-# Terms of Service – MMC: My Multi Counter
+# MMC: My Multi Counter
+## Terms of Service
 
 **Last updated: November 7, 2026**
 

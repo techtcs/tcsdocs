@@ -1,12 +1,12 @@
 # TERMS OF SERVICE
-## Days Without Incidents (DWI)
+## DWI (Days counter - Days Without Incidents)
 
 **Effective date:** November 7, 2026  
 **Developer:** TC Solution Inc.
 
 ### 1. Acceptance of Terms
 
-By downloading, installing, accessing, or using Days Without Incidents ("DWI", "the App"), you agree to be bound by these Terms of Service.
+By downloading, installing, accessing, or using Days counter - Days Without Incidents ("DWI", "the App"), you agree to be bound by these Terms of Service.
 
 If you do not agree with these terms, please discontinue using the App.
 

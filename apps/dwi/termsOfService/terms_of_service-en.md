@@ -1,5 +1,5 @@
-# TERMS OF SERVICE
-## DWI (Days counter - Days Without Incidents)
+# DWI (Days counter - Days Without Incidents)
+## Terms of Service
 
 **Effective date:** November 7, 2026  
 **Developer:** TC Solution Inc.

@@ -1,5 +1,6 @@
-# TERMS OF SERVICE
-## CDT – Countdown Timer
+# CDT – Countdown Timer
+## Terms of Service
+
 
 **Effective date:** November 7, 2026  
 **Developer:** TC Solution Inc.

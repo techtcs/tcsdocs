@@ -1,5 +1,5 @@
-# TERMS OF SERVICE
-## DWS – Days Without Smoking
+# DWS – Days Without Smoking
+## Terms of Service
 
 **Effective date:** November 7, 2026  
 **Developer:** TC Solution Inc.

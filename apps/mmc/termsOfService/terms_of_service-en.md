@@ -84,7 +84,8 @@ Technical and usage information may be collected through Firebase Analytics and 
 
 For further details about the information collected and how it is handled, please review the **MMC Privacy Policy**:
 
-https://techtcs.github.io/tcsdocs/apps/mmc/privacyPolicy/privacy_policy-en.html
+* [English version](https://techtcs.github.io/tcsdocs/apps/mmc/privacyPolicy/privacy_policy-en.html)  
+* [Portuguese version](https://techtcs.github.io/tcsdocs/apps/mmc/privacyPolicy/privacy_policy-pt.html)  
 
 By using MMC, you acknowledge that you have read and understood the Privacy Policy.
 

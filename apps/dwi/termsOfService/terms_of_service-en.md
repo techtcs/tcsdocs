@@ -88,7 +88,8 @@ The collection, processing, storage, and sharing of information associated with 
 Please review the Privacy Policy for detailed information about how data is handled:
 
 **Privacy Policy:**  
-https://github.com/techtcs/tcsdocs/blob/master/apps/dwi/privacyPolicy/privacy_policy-en.md
+* [English version](https://techtcs.github.io/tcsdocs/apps/dwi/privacyPolicy/privacy_policy-en.html)  
+* [Portuguese version](https://techtcs.github.io/tcsdocs/apps/dwi/privacyPolicy/privacy_policy-pt.html)  
 
 By using the App, you acknowledge that you have had the opportunity to review the Privacy Policy.
 
